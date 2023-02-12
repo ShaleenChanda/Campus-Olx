@@ -27,4 +27,4 @@ The platform also includes a Login Using Outlook feature, for which Microsoft Az
 * Admin panel for account verification and product moderation
 ## Conclusion
 
-In summary, Campus Connection is a secure and user-friendly platform for buying, selling, and exchanging goods among students, and it was developed using the latest technologies to provide a seamless experience for its users.
+In summary, CampusOLX is a secure and user-friendly platform for buying, selling, and exchanging goods among students, and it was developed using the latest technologies to provide a seamless experience for its users.
